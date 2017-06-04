@@ -3,5 +3,5 @@ main: ml.minelounge.kitpvp.Main
 version: 6.9
 author: Chaspyr
 authors: [Chaspyr, Derkades]
-description: asdoiucmjasd
+description: KitPvP plugin for the MineLounge server
 require: Core
