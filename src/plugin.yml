@@ -4,3 +4,4 @@ version: 6.9
 author: Chaspyr
 authors: [Chaspyr, Derkades]
 description: asdoiucmjasd
+require: Core
